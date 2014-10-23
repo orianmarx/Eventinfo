@@ -1,6 +1,6 @@
-Some resources you may find helpful:
+<b>Some resources you may find helpful:</b>
 
-<br>NASA (general)
+<br><b>NASA (general)</b>
 <br>Data.nasa.gov - large directory of NASA datasets from satellites, telescopes, space probes, etc.
 <br>Sound Cloud - 
 <br>Deep Space Network - the network that talks sends/gets data from various space probes (no API, but can parse XML data) 
