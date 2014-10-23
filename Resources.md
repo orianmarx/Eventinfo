@@ -7,18 +7,18 @@
 <br>NASA 3D Resources - inventory of models for 3D printing (asteroids, space probes, rockets, etc) 
 <br>NASA Ames Open Source Projects 
 <br>NASA Goddard Open Source Projects  
-<br>Telescope/Observatory data  
+<br><b>Telescope/Observatory data</b>
 <br>Allen Telescope Array
 <br>setiQuest project data 
 <br>European VLBI Network Archive - radio observations combining data from many telescopes across Europe
 <br>MERLIN Data Archive (radio) - the catalogue of processed MERLIN data (UK-based radio interferometer) since June 1991 
 <br>Fermi Gamma-ray Space Telescope (gamma ray)
 <br>Hubble Legacy Archive (optical) - search utility to find archival Hubble image. Has nice display feature and access to FITS format (raw image data) 
-<br>Sloan Digital Sky Survey (optical)     
+<br>Sloan Digital Sky Survey (optical)
 <br>NASA JPL Planetary photojournal
 <br>U.S. astronomy datasets (via Data.gov)
 <br>MAST archive (The Multimission Archive at STScI supports a variety of astronomical data archives, with a primary focus on scientifically related data sets in the optical, ultraviolet, and near-infrared parts of the spectrum Gold Parties) http://archive.stsci.edu/missions.html
-<br><br>Exoplanets
+<br><br><b>Exoplanets</b>
 <br>Exoplanet orbit database - properties of planets orbiting stars other than the Sun. See also the Extrasolar Planets Encyclopaedia and the Visual Exoplanet Catalogue
 <br>http://archive.stsci.edu/kepler/ 
 <br><br><b>Satellites (orbital)</b>
