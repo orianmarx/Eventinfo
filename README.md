@@ -1,4 +1,4 @@
-Eventinfo
+Event Info
 =========
 
 <p><b>AMNH presents Hack the Universe, the launch of BridgeUp: STEM</b>
