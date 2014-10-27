@@ -22,7 +22,6 @@
 <b>Exoplanets</b>
 <br><a href="http://exoplanets.org/">Exoplanet orbit database</a> - properties of planets orbiting stars other than the Sun. See also the <a href="http://www.exoplanet.eu/">Extrasolar Planets Encyclopaedia</a> and the <a href="http://exoplanet.hanno-rein.de/index.php">Visual Exoplanet Catalogue</a>
 <br>http://archive.stsci.edu/kepler/ 
-<br><br><b>Satellites (orbital)</b>
 
 <b>Pulsars</b>
 <br><a href="http://www.atnf.csiro.au/research/pulsar/psrcat/">The ATNF Pulsar Database</a> (<a href="http://laurakogler.net/other/PulsarVisualization/">visualization of known pulsars</a>)
