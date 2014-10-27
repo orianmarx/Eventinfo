@@ -10,8 +10,7 @@
 <br><a href="http://opensource.gsfc.nasa.gov/">NASA Goddard Open Source Projects</a>
 
 <b>Telescope/Observatory data</b>
-<br>Allen Telescope Array
-<br><a href="http://setiquest.org/wiki/index.php/SetiQuest_Data">setiQuest project data</a> 
+<br>Allen Telescope Array: <a href="http://setiquest.org/wiki/index.php/SetiQuest_Data">setiQuest project data</a> 
 <br><a href="http://www.jive.nl/archive-introduction">European VLBI Network Archive</a> - radio observations combining data from many telescopes across Europe
 <br><a href="http://www.merlin.ac.uk/archive/">MERLIN Data Archive (radio)</a> - the catalogue of processed MERLIN data (UK-based radio interferometer) since June 1991 
 <br><a href="http://fermi.gsfc.nasa.gov/ssc/data/access/">Fermi Gamma-ray Space Telescope</a> (gamma ray)
