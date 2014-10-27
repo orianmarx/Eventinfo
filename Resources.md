@@ -1,24 +1,24 @@
 <b>Some resources you may find helpful:</b>
 
 <b>NASA (general)</b>
-<br>Data.nasa.gov - large directory of NASA datasets from satellites, telescopes, space probes, etc.
-<br>Sound Cloud - 
-<br>Deep Space Network - the network that talks sends/gets data from various space probes (no API, but can parse XML data) 
-<br>NASA 3D Resources - inventory of models for 3D printing (asteroids, space probes, rockets, etc) 
-<br>NASA Ames Open Source Projects 
-<br>NASA Goddard Open Source Projects
+<br><a href="http://data.nasa.gov/">Data.nasa.gov</a> - large directory of NASA datasets from satellites, telescopes, space probes, etc.
+<br><a href="https://soundcloud.com/nasa">Sound Cloud</a> - directory of sounds recorded from space
+<br><a href="http://eyes.nasa.gov/dsn/dsn.html">Deep Space Network</a> - the network that talks sends/gets data from various space probes (no API, but can parse XML data) 
+<br><a href="http://nasa3d.arc.nasa.gov/">NASA 3D Resources</a> - inventory of models for 3D printing (asteroids, space probes, rockets, etc) 
+<br><a href="http://opensource.arc.nasa.gov/">NASA Ames Open Source Projects</a> 
+<br><a href="http://opensource.gsfc.nasa.gov/">NASA Goddard Open Source Projects</a>
 
 <b>Telescope/Observatory data</b>
 <br>Allen Telescope Array
-<br>setiQuest project data 
-<br>European VLBI Network Archive - radio observations combining data from many telescopes across Europe
-<br>MERLIN Data Archive (radio) - the catalogue of processed MERLIN data (UK-based radio interferometer) since June 1991 
-<br>Fermi Gamma-ray Space Telescope (gamma ray)
-<br>Hubble Legacy Archive (optical) - search utility to find archival Hubble image. Has nice display feature and access to FITS format (raw image data) 
-<br>Sloan Digital Sky Survey (optical)
-<br>NASA JPL Planetary photojournal
-<br>U.S. astronomy datasets (via Data.gov)
-<br>MAST archive (The Multimission Archive at STScI supports a variety of astronomical data archives, with a primary focus on scientifically related data sets in the optical, ultraviolet, and near-infrared parts of the spectrum Gold Parties) http://archive.stsci.edu/missions.html
+<br><a href="http://setiquest.org/wiki/index.php/SetiQuest_Data">setiQuest project data</a> 
+<br><a href="http://www.jive.nl/archive-introduction">European VLBI Network Archive</a> - radio observations combining data from many telescopes across Europe
+<br><a href="http://www.merlin.ac.uk/archive/">MERLIN Data Archive (radio)</a> - the catalogue of processed MERLIN data (UK-based radio interferometer) since June 1991 
+<br><a href="http://fermi.gsfc.nasa.gov/ssc/data/access/">Fermi Gamma-ray Space Telescope</a> (gamma ray)
+<br><a href="http://hla.stsci.edu/hlaview.html">Hubble Legacy Archive</a> (optical) - search utility to find archival Hubble image. Has nice display feature and access to FITS format (raw image data) 
+<br><a href="http://cas.sdss.org/dr7/en/">Sloan Digital Sky Survey</a> (optical)
+<br><a href="http://photojournal.jpl.nasa.gov/">NASA JPL Planetary photojournal</a>
+<br><a href="http://catalog.data.gov/dataset?q=astronomy">U.S. astronomy datasets</a> (via Data.gov)
+<br><a href="http://archive.stsci.edu/missions.html">MAST archive</a> (The Multimission Archive at STScI supports a variety of astronomical data archives, with a primary focus on scientifically related data sets in the optical, ultraviolet, and near-infrared parts of the spectrum <a href="http://www.goldrushamerica.com/">Gold Parties</a>) 
 
 <b>Exoplanets</b>
 <br>Exoplanet orbit database - properties of planets orbiting stars other than the Sun. See also the Extrasolar Planets Encyclopaedia and the Visual Exoplanet Catalogue
