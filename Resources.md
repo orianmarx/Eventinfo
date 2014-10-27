@@ -1,4 +1,5 @@
 <b>Some resources you may find helpful:</b>
+<br><i>These links were compiled from Science Hack Day <a href="http://sciencehackday.pbworks.com/w/page/24499518/APIs">APIs</a> and <a href="http://sciencehackday.pbworks.com/w/page/24500475/Datasets">Datasets</a> as well as the Astrobetter <a href="http://www.astrobetter.com/wiki/tiki-index.php?page=Wiki+Home">Wiki</a>.</a>
 
 <b>NASA (general)</b>
 <br><a href="http://data.nasa.gov/">Data.nasa.gov</a> - large directory of NASA datasets from satellites, telescopes, space probes, etc.
@@ -38,7 +39,7 @@
 <br>VizieR: a very complete collection of astronomical databases. http://vizier.u-strasbg.fr/viz-bin/VizieR. For instance get the entire Tycho-II catalog (every star in the sky brighter than 12th mag) or the Hipparcos catalog. (several hundred thousand stars with distances)
 
 <b>Comets</b>
-<br>1,300 images of Comet Holmes, with locations on the sky  -- see project list for details about this one, or http://www.astro.princeton.edu/~dstn/temp/scihackday/ , you want the files starting with "holmes".
+<br>1,300 images of Comet Holmes, with locations on the sky http://www.astro.princeton.edu/~dstn/temp/scihackday/, you want the files starting with "holmes".
 
 <b>Stars</b>
 <br>Tycho-2 catalog -- 2.5 million brightest stars -- http://www.astro.princeton.edu/~dstn/temp/scihackday/tycho2-cut.fits
