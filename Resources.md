@@ -71,12 +71,7 @@
 
 <b>Photos</b>
 <br><a href="http://www.flickr.com/services/api/">Flickr</a>
-<br><a href="http://www.nmm.ac.uk/visit/exhibitions/astronomy-photographer-of-the-year/astrotags/">Astrotagged photographs</a>
 <br><a href="http://eatyourgreens.org.uk/archives/2009/12/searching-astroname-with-yql.html">Searching astro:name with YQL</a> (Has some javascript for placing flickr photos in the sky)
 <br><a href="http://eatyourgreens.org.uk/archives/2010/01/generating-astrotags-for-flickr-photos.html">Generating astrotags from astrometry.net photo comments</a>
 
-<b>Other resources</b>
-<br>http://www.astrobetter.com/wiki/tiki-index.php?page=Wiki+Home
-<br>http://sciencehackday.pbworks.com/w/page/24500475/Datasets
-<br>http://sciencehackday.pbworks.com/w/page/24499518/APIs
 
