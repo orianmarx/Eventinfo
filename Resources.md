@@ -6,7 +6,6 @@
 <br><a href="https://soundcloud.com/nasa">Sound Cloud</a> - directory of sounds recorded from space
 <br><a href="http://eyes.nasa.gov/dsn/dsn.html">Deep Space Network</a> - the network that talks sends/gets data from various space probes (no API, but can parse XML data) 
 <br><a href="http://nasa3d.arc.nasa.gov/">NASA 3D Resources</a> - inventory of models for 3D printing (asteroids, space probes, rockets, etc) 
-<br><a href="http://opensource.arc.nasa.gov/">NASA Ames Open Source Projects</a> 
 <br><a href="http://opensource.gsfc.nasa.gov/">NASA Goddard Open Source Projects</a>
 
 <b>Telescope/Observatory data</b>
