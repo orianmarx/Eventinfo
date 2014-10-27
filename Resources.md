@@ -34,9 +34,6 @@
 <br>NASA SkyView: multiwavelength, all-sky data server. (http://skyview.gsfc.nasa.gov/) 
 <br>VizieR: a very complete collection of astronomical databases. http://vizier.u-strasbg.fr/viz-bin/VizieR. For instance get the entire Tycho-II catalog (every star in the sky brighter than 12th mag) or the Hipparcos catalog. (several hundred thousand stars with distances)
 
-<b>Comets</b>
-<br>1,300 images of Comet Holmes, with locations on the sky http://www.astro.princeton.edu/~dstn/temp/scihackday/, you want the files starting with "holmes".
-
 <b>Stars</b>
 <br>Tycho-2 catalog -- 2.5 million brightest stars -- http://www.astro.princeton.edu/~dstn/temp/scihackday/tycho2-cut.fits
 <br>USNO-B all-sky survey images, NGC/IC galaxy catalogs, constellations, and bright named stars -- in http://astrometry.net/downloads code package: util/ngc2000.py , util/brightstars.c, util/constellations.c, util/usnob_get_images.py  or browse at http://trac.astrometry.net/browser/trunk/src/astrometry/util
