@@ -46,7 +46,7 @@
 
 <b>Maps</b>
 <br><a href="http://code.google.com/apis/maps/documentation/introduction.html#CelestialMapTypes">Google Moon and Google Mars</a>
-<br><a href="http://ti.arc.nasa.gov/project/planetary/maps/">NASA Extenstions to the Google Maps API</a>
+<br><a href="http://ti.arc.nasa.gov/tech/asr/intelligent-robotics/planetary/maps/">NASA Extenstions to the Google Maps API</a>
 <br><a href="http://wms.jpl.nasa.gov/">OnEarth from NASA's Jet Propulsion Laboratory</a>
 <br><a href="http://wiki.openstreetmap.org/wiki/Main_Page">Open Street Maps Data</a>
 
