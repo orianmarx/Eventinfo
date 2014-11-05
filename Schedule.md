@@ -27,8 +27,8 @@
 **12:30 PM:** Lunch: sandwiches and salads
 <br>*Rose Center Classroom #2 on 2nd Floor*
 
-1:00 - 5:00 PM&nbsp;  &nbsp;&nbsp;  &nbsp;	Public programming, including Lightning Talks and some hands-on youth stations
-<br><i>Feel free to take a quick break and sit in on a talk or try out a station if you’d like</i>
+**1:00 - 5:00 PM:** Public programming, including Lightning Talks and some hands-on youth stations
+<br>*Feel free to take a quick break and sit in on a talk or try out a station if you’d like*
 
 ####4:30 PM: HACKS SUBMITTED!
 <br>*You’ll have about an hour to get a snack and practice your pitch (2 minutes max!)*
@@ -36,7 +36,7 @@
 **4:30 PM:** Snack: smoothies and Kind bars
 <br>*Rose Center Classroom #2 on 2nd Floor*
 
-**5:45 PM**: Museum closes 
+**5:45 PM:** Museum closes 
 
 **6:00 PM:** Demos and reception (open bar, cheese platters, vegetable crudite, and fruit)
 <br>*If you have any guests arriving, tell them to come to the 81st Street Entrance*
