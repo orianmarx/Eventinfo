@@ -1,13 +1,18 @@
-Schedule of Events
+###Schedule of Events
 
-FRIDAY 
-<br>6:00 - 7:00 PM &nbsp;  &nbsp;	Registration (First 50 hackers get something extra in their goodie bag - be on time!)
+####FRIDAY 
+*6:00 - 7:00 PM:* Registration (First 50 hackers get something extra in their goodie bag - be on time!)
 <br><i>81st Street Entrance </i>
-<br>7:00 - 8:30 PM &nbsp; &nbsp;	Introduction to Digital Universe Data Set, Q&A, and Project Pitching/Team Forming
+
+*7:00 - 8:30 PM:* Introduction to Digital Universe Data Set, Q&A, and Project Pitching/Team Forming
 <br><i>Hayden Planetarium Dome Theater</i>
-<br>8:30 PM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Dinner: pizza and salad 
+
+*8:30 PM:* Dinner: pizza and salad 
 <br><i>Hall of the Universe</i>
-<br><br>SATURDAY 
+
+*OVERNIGHT HACK!*
+
+####SATURDAY 
 <br>8:00 AM	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Sleeping areas need to be cleaned up and moved upstairs - the museum will open soon!
 <br><i>Moved to Rose Center Classroom #1 on 2nd Floor</i>
 <br>9:00 AM	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Breakfast: yogurt and bagel bar + coffee
@@ -30,5 +35,3 @@ FRIDAY
 <br>IMPORTANT NUMBERS
 <br>Christina Wallace:	  (202) 674-8587
 <br>Edin Wall: 		  (646) 342-9195
-
-
