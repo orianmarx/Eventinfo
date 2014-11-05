@@ -20,7 +20,7 @@ FRIDAY
 <br><i>Feel free to take a quick break and sit in on a talk or try out a station if you’d like</i>
 <br><b>4:30 PM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	HACKS SUBMITTED! </b>
 <br><i>You’ll have about an hour to get a snack and practice your pitch (2 minutes max!)</i>
-<br>4:30 PM	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Snack: Smoothies and Kind bars
+<br>4:30 PM	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Snack: smoothies and Kind bars
 <br><i>Rose Center Classroom #2 on 2nd Floor</i>
 <br>5:45 PM	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Museum closes 
 <br>6:00 PM	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Demos and reception (open bar, cheese platters, vegetable crudite, and fruit)
