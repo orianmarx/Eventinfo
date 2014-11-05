@@ -47,5 +47,5 @@
 
 ####IMPORTANT NUMBERS
 
-Christina Wallace: (202) 674-8587
-Edin Wall: (646) 342-9195
+- Christina Wallace: (202) 674-8587
+- Edin Wall: (646) 342-9195
