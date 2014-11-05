@@ -9,12 +9,12 @@ FRIDAY
 <br><i>Hall of the Universe</i>
 <br><br>SATURDAY 
 <br>8:00 AM	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Sleeping areas need to be cleaned up and moved upstairs - the museum will open soon!
-<br><i>Moved to Rose Center Classroom #1</i>
+<br><i>Moved to Rose Center Classroom #1 on 2nd Floor</i>
 <br>9:00 AM	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Breakfast: yogurt and bagel bar + coffee
 <br><i>Rose Center Classroom #2 on 2nd Floor</i> 
 <br>10:00 AM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	Museum opens to public
 <br><i>We’ll have volunteers around to explain to visitors what’s going on, but you may find an interested child or two who will ask you what you’re building. We hope you’ll explain!</i>
-<br>12:00 PM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Lunch: sandwiches and salads
+<br>12:30 PM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Lunch: sandwiches and salads
 <br><i>Rose Center Classroom #2 on 2nd Floor </i>
 <br>1:00 - 5:00 PM&nbsp;  &nbsp;&nbsp;  &nbsp;	Public programming, including Lightning Talks and some hands-on youth stations
 <br><i>Feel free to take a quick break and sit in on a talk or try out a station if you’d like</i>
